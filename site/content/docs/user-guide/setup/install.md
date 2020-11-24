@@ -84,6 +84,14 @@ Krew self-hosts).
 1. Launch a new command-line window.
 1. Verify running `kubectl krew` works.
 
+### Chocolatey (Windows)
+
+You can install `krew` using [Chocolatey](https://chocolatey.org/):
+
+```sh
+choco install krew
+```
+
 [releases]: https://github.com/kubernetes-sigs/krew/releases
 
 ## Other package managers
